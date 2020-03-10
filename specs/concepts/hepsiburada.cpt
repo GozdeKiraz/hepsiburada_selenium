@@ -1,0 +1,96 @@
+Created by testinium on 9.03.2020
+
+This is a concept file with following syntax for each concept.
+# Giriş yap butonuna tıklanır
+* "girisButonu" elementine yonel
+* "girisYap" elementine tıkla
+
+# <email> ve <password> login ol
+* "username" elementine <email> değerini gonder
+* "password" elementine <password> değerini gonder
+* "loginOl" elementine tıkla
+
+# Sepet kontrolü yap
+* "5" saniye bekle
+* "sepettekiUrun" elementini kontrol et eğer varsa tıkla
+
+# Anasayfaya dön
+* "logo" elementine tıkla
+
+# Kategori seç
+* "kategoriSec" menusunden rastgele bir "altKategoriSec" sec
+
+# İstenilen özelliklere göre ürün ara
+* "5" saniye bekle
+* "markaSec" elementine rastgele tıkla
+* "fiyatAralık1" elementine "10" değerini gonder
+* "fiyatAralık2" elementine "4000" değerini gonder
+* "fiyatAra" elementine tıkla
+
+# Ürün ad ve fiyat bilgilerini csv dosyasına kaydet
+* "secilenUrun" sec "urunAdi" ve "urunFiyati" nı "AlisverisTutarlari.csv" dosyasına kaydet
+* "10" saniye bekle
+
+# Ürün fiyat karşılaştırmasını oku
+* "urunDetay" elementinin textini "AlisverisTutarlari.csv" dosyasından oku
+
+# Sepete ekle
+* "btn_Urunu_Sepete_Ekle" elementine tıkla
+
+# Ürünü kontrol et
+* "eklenenUrun" ile "sepettekiSayi" kontrol et
+* "5" saniye bekle
+
+# Sepete git
+* "sepet" elementine tıkla
+
+# Ürün adedini arttır
+* "adetArttır" elementine tıkla
+* "adetArttır" elementine tıkla
+
+# Ürün tutar ve ödenecek tutarı karşılaştır
+* "urunTutar" ile "odenecekTutar" karşılaştır
+
+# Ürünün toplam değeri ve kargo tutarını csv yazdır
+* "urunToplamDegeri" ve "urunKargoTutari" nı "KargoTutar.csv" dosyasına yazdır
+
+# Alışverişi tamamla
+* "alisverisiTamamla" elementine tıkla
+
+# Yeni adres ekle ve devam et
+* "adresEkle" elementine tıkla
+* "ad" elementine "Gözde" değerini gonder
+* "soyad" elementine "Kiraz" değerini gonder
+* "ilAra" elementine tıkla
+* "iller" elementine rastgele tıkla
+* "ilceAra" elementine tıkla
+* "ilceler" elementine rastgele tıkla
+* "mahalleAra" elementine tıkla
+* "mahalleler" elementine rastgele tıkla
+* "adresYaz" elementine "a sitesi no:4" değerini gonder
+* "adresAdı" elementine "Ev" değerini gonder
+* "telefonNo" elementine "5079774224" değerini gonder
+* "adresiKaydet" elementine tıkla
+* "5" saniye bekle
+* "devamEt" elementine tıkla
+
+# Kredi kartı ödeme seçeneği ile ödeme yap ve devam et
+* "krediKartı" elementine tıkla
+* "kartNumarası" elementine "4183421743576448" değerini gonder
+* "5" saniye bekle
+* "kartÜzerindekiİsim" elementine "Gökçe Ay" değerini gonder
+* "yılAra" elementine tıkla
+* "yıllar" elementine rastgele tıkla
+* "güvenlikKodu" elementine "534" değerini gonder
+* "devamEt2" elementine tıkla
+
+# Sepete gel ve ürünü sil
+* "sepetim" elementine tıkla
+* "urunSil" elementine tıkla
+
+# Hesabımdan adreslere git ve adresi sil
+* "hesabımaGit" elementine tıkla
+* "hesabım" elementine tıkla
+* "adreslerim" elementine tıkla
+* "adresSil" elementine tıkla
+* "adresSil2" elementine tıkla

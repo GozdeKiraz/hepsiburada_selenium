@@ -1,0 +1,280 @@
+[
+  {
+    "key": "girisButonu",
+    "value": "myAccount",
+    "type": "id"
+  },
+  {
+    "key": "girisYap",
+    "value": "login",
+    "type": "id"
+  },
+  {
+    "key": "username",
+    "value": "email",
+    "type": "id"
+  },
+  {
+    "key": "password",
+    "value": "password",
+    "type": "id"
+  },
+  {
+    "key": "loginOl",
+    "value": "button[class='btn full btn-login-submit']",
+    "type": "css"
+  },
+  {
+    "key": "sepetKontrol",
+    "value": "div[class='empty-cart-icon-container']",
+    "type": "css"
+  },
+  {
+    "key": "sepeteGit",
+    "value": "#shoppingCart",
+    "type": "css"
+  },
+  {
+    "key": "sepettekiUrun",
+    "value": ".btn-delete",
+    "type": "css"
+  },
+  {
+    "key": "logo",
+    "value": " div.header-wrapper.is-cart > div.header-global.sfcontainer > a > span",
+    "type": "css"
+  },
+  {
+    "key": "kategoriSec",
+    "value": "div.navigationWrapper > div > ul>li",
+    "type": "css"
+  },
+  {
+    "key": "altKategoriSec",
+    "value": ".menus > ul > ul > li > a",
+    "type": "css"
+  },
+  {
+    "key": "markaSec",
+    "value": "div > ol > li.box-container.brand > ol > li",
+    "type": "css"
+  },
+  {
+    "key": "fiyatAralık1",
+    "value": "li.box-container.fiyat > div > div > div:nth-child(1) > input",
+    "type": "css"
+  },
+  {
+    "key": "fiyatAralık2",
+    "value": "li.box-container.fiyat > div > div > div:nth-child(3) > input",
+    "type": "css"
+  },
+  {
+    "key": "fiyatAra",
+    "value": "li.box-container.fiyat > div > div > div.range-contain-row.right > button",
+    "type": "css"
+  },
+
+  {
+    "key": "rastgeleUrun",
+    "value": "div.box.product.no-hover > a",
+    "type": "css"
+  },
+  {
+    "key": "secilenUrun",
+    "value": "ul > li > div",
+    "type": "css"
+  },
+  {
+  "key": "urunAdi",
+  "value": "li> div > a > div > h3 > div > p > span",
+  "type": "css"
+},
+  {
+  "key": "urunFiyati",
+  "value": "div.price-container.highlight-badge.hb-pl-cn > span",
+  "type": "css"
+},{
+  "key": "urunDetay",
+  "value": "del[id='originalPrice']",
+  "type": "css"
+},{
+  "key": "sepeteEkle",
+  "value": "div > ul > li> div > a > div > span.info.add-to-cart.on-hover.hb-pl-cn.no-bg > button",
+  "type": "css"
+},{
+  "key": "btn_Urunu_Sepete_Ekle",
+  "value": "#addToCart",
+  "type": "css"
+},{
+  "key": "eklenenUrun",
+  "value":"#quantity",
+  "type": "css"
+}, {
+  "key": "ürünAlanı",
+  "value":"ul > li> div > a > div > span.info.add-to-cart.on-hover.hb-pl-cn.no-bg",
+  "type": "css"
+
+}
+,
+  {
+    "key": "sepettekiSayi",
+    "value":"#cartItemCount > label",
+    "type": "css"
+
+  },
+  {
+    "key": "sepet",
+    "value":"#shoppingCart",
+    "type": "css"
+  },{
+  "key": "adetArttır",
+  "value":"div.quantity-wrapper > div > button.increase",
+  "type": "css"
+},{
+  "key": "urunTutar",
+  "value":"div.product-prices-utils > div.price > span",
+  "type": "css"
+},{
+  "key": "odenecekTutar",
+  "value":"div.total-amount > div > span",
+  "type": "css"
+},{
+  "key": "urunToplamDegeri",
+  "value":"div:nth-child(1) > div > strong",
+  "type": "css"
+},{
+  "key": "urunKargoTutari",
+  "value":"div:nth-child(3) > strong",
+  "type": "css"
+},{
+  "key": "alisverisiTamamla",
+  "value":"div.cart-proceed-container > button > span",
+  "type": "css"
+},{
+  "key": "adresEkle",
+  "value":"div.hb-ui-selectbox.address-list.full > a",
+  "type": "css"
+},{
+  "key": "ad",
+  "value":"#first-name",
+  "type": "css"
+},{
+  "key": "soyad",
+  "value":"#last-name",
+  "type": "css"
+},{
+  "key": "ülkeSec",
+  "value":" div.control-group.live-search.success > div > div.btn-group.bootstrap-select.required > button > span.caret",
+  "type": "css"
+},{
+  "key": "ilAra",
+  "value":"section:nth-child(3) > div:nth-child(2) > div > div > button > span.caret",
+  "type": "css"
+},{
+  "key": "iller",
+  "value":"div.control-group.live-search.error > div > div > div > ul > li> a",
+  "type": "css"
+},{
+  "key": "ilceAra",
+  "value":"div:nth-child(3) > div > div.btn-group.bootstrap-select.required > button > span.caret",
+  "type": "css"
+},{
+  "key": "ilceler",
+  "value":" div.btn-group.bootstrap-select.required.open > div > ul > li > a > span",
+  "type": "css"
+},{
+  "key": "mahalleAra",
+  "value":"div > section:nth-child(3) > div.control-group.live-search.error > div > div > button > span.caret",
+  "type": "css"
+},{
+  "key": "mahalleler",
+  "value":"div.control-group.live-search.error > div > div > div > ul > li > a",
+  "type": "css"
+},{
+  "key": "adresYaz",
+  "value":"#address",
+  "type": "css"
+},{
+  "key": "adresAdı",
+  "value":"#address-name",
+  "type": "css"
+},{
+  "key": "telefonNo",
+  "value":"#phone",
+  "type": "css"
+},{
+  "key": "adresiKaydet",
+  "value":"div.control-group.last > div > button > span",
+  "type": "css"
+},{
+  "key": "devamEt",
+  "value":"div:nth-child(1) > div.proceed-container > button > span",
+  "type": "css"
+},{
+  "key": "krediKartı",
+  "value":"div.payment-container > div > div > div:nth-child(1) > a",
+  "type": "css"
+},{
+  "key": "kartNumarası",
+  "value":"#card-no",
+  "type": "css"
+},{
+  "key": "kartÜzerindekiİsim",
+  "value":"#holder-Name",
+  "type": "css"
+},{
+  "key": "AyAra",
+  "value":"div:nth-child(3) > div > div:nth-child(1) > div > button > span.caret",
+  "type": "css"
+},{
+  "key": "Aylar",
+  "value":"div > div:nth-child(1) > div > div > ul > li> a",
+  "type": "css"
+},{
+  "key": "yılAra",
+  "value":"div:nth-child(3) > div > div:nth-child(2) > div > button > span.caret",
+  "type": "css"
+},{
+  "key": "yıllar",
+  "value":"div > div:nth-child(2) > div > div > ul > li > a > span",
+  "type": "css"
+},{
+  "key": "güvenlikKodu",
+  "value":"#cvc",
+  "type": "css"
+  },{
+  "key": "devamEt2",
+  "value":"div.proceed-container > button > span",
+  "type": "css"
+},{
+  "key": "sepetim",
+  "value":"div:nth-child(1) > div > div > a > div > span",
+  "type": "css"
+},{
+  "key": "urunSil",
+  "value":"div.utils > a.btn-delete.hbus.fa73",
+  "type": "css"
+},{
+  "key": "hesabımaGit",
+  "value":"div.my-account.login > div.hb-user-area",
+  "type": "css"
+},{
+  "key": "hesabım",
+  "value":"div.accountToggle > div > ul > li:nth-child(2) > a",
+  "type": "css"
+},{
+  "key": "adreslerim",
+  "value":"div:nth-child(6) > a > div.NavigationMenuItem-3JKIS",
+  "type": "css"
+},{
+  "key": "adresSil",
+  "value":"div.action-buttons > a.btn-delete.btn-text",
+  "type": "css"
+},{
+  "key": "adresSil2",
+  "value":"div.delete-overlay.open > div > a.btn.btn-md",
+  "type": "css"
+}
+
+]
